@@ -30,7 +30,7 @@ An intelligent, video-based banking assistant that streamlines loan applications
 - AI assistant videos can be available in **multiple Indian languages** for a localized experience.  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript , Typescript
 - **Backend:** Python (Flask/Django)  
 - **AI/ML:** OpenCV, Face Recognition, OCR (Tesseract)  
 - **Database:** PostgreSQL / MySQL  
