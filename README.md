@@ -3,7 +3,7 @@
 An intelligent, video-based banking assistant that streamlines loan applications with AI-driven decision-making. This project eliminates the need for lengthy forms by enabling users to interact with a pre-recorded AI manager, ensuring a seamless and efficient banking experience.  
 
 ## 🎥 Demo  
-[![Watch the Video](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)]()  
+[![Watch the Video](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/9QVUxSmGjqQ?si=1GmS3pxAb53AEmIj)  
 
 ## ✨ Features  
 
